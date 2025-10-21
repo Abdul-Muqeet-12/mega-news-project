@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@theme {
+  --breakpoint-midlg: 1200px;
+  --breakpoint-2midlg: 1024px;
+  --breakpoint-2md: 980px;
+  --breakpoint-2sm: 630px;
+  --breakpoint-small: 480px;
+  --breakpoint-2small: 320px;
+}
+
+.food {
+  background-image: url(/images/food.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.animal {
+  background-image: url(/images/animal.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.car {
+  background-image: url(/images/car.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.sport {
+  background-image: url(/images/sport.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.music {
+  background-image: url(/images/music.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.technology {
+  background-image: url(/images/technology.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.abstract {
+  background-image: url(/images/abstract.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+
