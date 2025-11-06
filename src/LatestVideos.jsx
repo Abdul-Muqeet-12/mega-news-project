@@ -6,25 +6,25 @@ function LatestVideos() {
   const posts = [
     {
       id: 1,
-      img: "/images/latest-sport.png",
+      img: "/public/latest-sport.png",
       title: "5 reasons why you should wrap...",
       desc: "So, you finally went to your first boxing class and learned the basics of the sport. You also learned that it’s recommended to wrap your hands before putting on the gloves. But there are times when you just don’t feel like wrapping them and you wonder why you even need them.",
     },
     {
       id: 2,
-      img: "/images/latest-music.png",
+      img: "/public/latest-music.png",
       title: "Music Genre Classification with...",
       desc: "A Guide to analyzing Audio/Music signals in Python — Music is like a mirror, and it tells people a lot about who you are and what you care about, whether you like it or not. You’ve read all your free memberonly stories, become a member to get unlimited access.",
     },
     {
       id: 3,
-      img: "/images/trendy-food.png",
+      img: "/public/trendy-food.png",
       title: "5 reasons why you should wrap...",
       desc: "So, you finally went to your first boxing class and learned the basics of the sport. You also learned that it’s recommended to wrap your hands before putting on the gloves. But there are times when you just don’t feel like wrapping them and you wonder why you even need them.",
     },
     {
       id: 4,
-      img: "/images/trendy-tech.png",
+      img: "/public/trendy-tech.png",
       title: "Music Genre Classification with...",
       desc: "A Guide to analyzing Audio/Music signals in Python — Music is like a mirror, and it tells people a lot about who you are and what you care about, whether you like it or not. You’ve read all your free memberonly stories, become a member to get unlimited access.",
     },
@@ -72,7 +72,7 @@ function LatestVideos() {
         <div className="mt-2 relative md:w-[580px] md:h-[350px] sm:w-[500px] sm:h-[320px] small:w-[460px] small:h-[300px] 2small:w-[300px] 2small:h-[210px]">
           <Link to={"/featured"}>
             <video
-              src="/images/nature-video.mp4"
+              src="/public/nature-video.mp4"
               autoPlay
               loop
               muted
@@ -83,7 +83,7 @@ function LatestVideos() {
           </Link>
           <div className="sm:w-[90px] sm:h-[90px] small:w-[70px] small:h-[70px] 2small:w-[50px] 2small:h-[50px] rounded-full absolute small:top-1/2 small:left-1/2 2small:top-20 2small:right-25 -translate-x-1/2 -translate-y-1/2 cursor-pointer bg-[#FFFFFFBF] flex justify-center items-center">
             <img
-              src="/images/play.png"
+              src="/public/play.png"
               alt=""
               className="w-[30px] h-[30px] sm:w-[35px] sm:h-[35px] small:w-[30px] small:h-[30px] 2small:w-[25px] 2small:h-[25px]"
             />

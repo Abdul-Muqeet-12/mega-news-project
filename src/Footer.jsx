@@ -148,7 +148,7 @@ function Footer() {
               <div className="img-1 lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl">
                 <Link to={"/featured"}>
                   <img
-                    src="/images/car.png"
+                    src="/public/car.png"
                     alt=""
                     className="lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl object-cover"
                   />
@@ -158,7 +158,7 @@ function Footer() {
               <div className="img-2 lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl">
                 <Link to={"/featured"}>
                   <img
-                    src="/images/animal.jpg"
+                    src="/public/animal.jpg"
                     alt=""
                     className="lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl object-cover"
                   />
@@ -168,7 +168,7 @@ function Footer() {
               <div className="img-3 lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl">
                 <Link to={"/featured"}>
                   <img
-                    src="/images/footer-tech.png"
+                    src="/public/footer-tech.png"
                     alt=""
                     className="lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl object-cover"
                   />
@@ -178,7 +178,7 @@ function Footer() {
               <div className="img-4 lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl">
                 <Link to={"/featured"}>
                   <img
-                    src="/images/food.png"
+                    src="/public/food.png"
                     alt=""
                     className="lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl object-cover"
                   />
@@ -188,7 +188,7 @@ function Footer() {
               <div className="img-5 lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl">
                 <Link to={"/featured"}>
                   <img
-                    src="/images/footer-music.png"
+                    src="/public/footer-music.png"
                     alt=""
                     className="lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl object-cover"
                   />
@@ -198,7 +198,7 @@ function Footer() {
               <div className="img-6 lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl">
                 <Link to={"/featured"}>
                   <img
-                    src="/images/footer-dance.png"
+                    src="/public/footer-dance.png"
                     alt=""
                     className="lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl object-cover"
                   />
@@ -208,7 +208,7 @@ function Footer() {
               <div className="img-7 lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl">
                 <Link to={"/featured"}>
                   <img
-                    src="/images/footer-animal.png"
+                    src="/public/footer-animal.png"
                     alt=""
                     className="lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl object-cover"
                   />
@@ -218,7 +218,7 @@ function Footer() {
               <div className="img-8 lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl">
                 <Link to={"/featured"}>
                   <img
-                    src="/images/footer-club.png"
+                    src="/public/footer-club.png"
                     alt=""
                     className="lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl object-cover"
                   />
@@ -228,7 +228,7 @@ function Footer() {
               <div className="img-9 lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl small:inline-block 2small:hidden">
                 <Link to={"/featured"}>
                   <img
-                    src="/images/latest-sport.png"
+                    src="/public/latest-sport.png"
                     alt=""
                     className="lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl object-cover"
                   />

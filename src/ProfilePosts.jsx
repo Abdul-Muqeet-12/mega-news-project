@@ -22,33 +22,33 @@ export default function ProfilePosts() {
   const posts = [
     {
       id: 1,
-      img: "/images/trendy-sport.png",
+      img: "/public/trendy-sport.png",
       title: "Opening Day of Boating Season, Seattle WA",
-      authorImg: "/images/James.png",
+      authorImg: "/public/James.png",
       author: "James",
       date: "September 5 , 2025",
     },
     {
       id: 2,
-      img: "/images/technology.jpg",
+      img: "/public/technology.jpg",
       title: "How to choose the right laptop for idea",
-      authorImg: "/images/Louis.png",
+      authorImg: "/public/Louis.png",
       author: "Robort",
       date: "September 5 , 2025",
     },
     {
       id: 3,
-      img: "/images/car.png",
+      img: "/public/car.png",
       title: "How we built the first real self-driving car",
-      authorImg: "/images/Mary.png",
+      authorImg: "/public/Mary.png",
       author: "Mary",
       date: "September 5 , 2025",
     },
     {
       id: 4,
-      img: "/images/food.png",
+      img: "/public/food.png",
       title: "How to Persuade Your Parents to Buy...",
-      authorImg: "/images/Jon.png",
+      authorImg: "/public/Jon.png",
       author: "Jon Kantner",
       date: "September 5 , 2025",
     },
@@ -64,7 +64,7 @@ export default function ProfilePosts() {
         </div>
         <div>
           <img
-            src="/images/icon.png"
+            src="/public/icon.png"
             alt=""
             className="md:w-[8px] md:h-[12px] small:w-[7px] small:h-[10px] 2small:w-[7px] 2small:h-[8px]"
           />
@@ -77,7 +77,7 @@ export default function ProfilePosts() {
       <div className="bar h-[260px] bg-[#F5F5F5] rounded-xl lg:mx-8 sm:mx-6 small:mx-6 mx-6 mt-10 p-3">
         <div>
           <img
-            src="/images/slider-img2.jpg"
+            src="/public/slider-img2.jpg"
             alt=""
             className="h-[150px] w-full object-cover rounded-xl"
           />
@@ -86,7 +86,7 @@ export default function ProfilePosts() {
         <div className="flex items-center justify-between mt-3">
           <div className="flex items-center gap-[8px]">
             <img
-              src="/images/Louis.png"
+              src="/public/Louis.png"
               alt=""
               className="w-[75px] h-[75px] rounded-xl"
             />
@@ -347,14 +347,14 @@ export default function ProfilePosts() {
                       <div className="flex items-center gap-[20px]">
                         <div>
                           <img
-                            src="/images/edit.png"
+                            src="/public/edit.png"
                             alt=""
                             className="w-[20px]"
                           />
                         </div>
                         <div>
                           <img
-                            src="/images/del.png"
+                            src="/public/del.png"
                             alt=""
                             className="w-[20px]"
                           />

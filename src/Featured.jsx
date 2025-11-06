@@ -25,7 +25,7 @@ function Featured() {
         </div>
         <div>
           <img
-            src="/images/icon.png"
+            src="/public/icon.png"
             alt=""
             className="md:w-[8px] md:h-[12px] small:w-[7px] small:h-[10px] 2small:w-[7px] 2small:h-[8px]"
           />
@@ -35,7 +35,7 @@ function Featured() {
         </div>
         <div>
           <img
-            src="/images/icon.png"
+            src="/public/icon.png"
             alt=""
             className="md:w-[8px] md:h-[12px] small:w-[7px] small:h-[10px] 2small:w-[7px] 2small:h-[8px]"
           />
@@ -53,7 +53,7 @@ function Featured() {
               </h1>
               <div className="flex items-center justify-center mt-3">
                 <img
-                  src="/images/water-boat.png"
+                  src="/public/water-boat.png"
                   alt=""
                   className="w-[95%] h-[498px] rounded-xl object-cover"
                 />
@@ -122,7 +122,7 @@ function Featured() {
               <div className="flex items-center justify-center my-10">
                 <div className="w-[70%] h-[400px] rounded-xl shadow-sm">
                   <img
-                    src="/images/boats.png"
+                    src="/public/boats.png"
                     alt=""
                     className="w-full h-[400px] rounded-xl object-cover"
                   />
@@ -202,7 +202,7 @@ function Featured() {
                 <div className="sm:w-[320px] w-full h-[100px] flex justify-between bg-[#F5F5F5] rounded-xl p-2">
                   <div className="img flex gap-2">
                     <img
-                      src="/images/Louis.png"
+                      src="/public/Louis.png"
                       alt=""
                       className="w-[80px] h-[80px] rounded-xl"
                     />
@@ -246,7 +246,7 @@ function Featured() {
 
                   <div className="flex items-center gap-[10px] cursor-pointer hover:shadow-sm">
                     <img
-                      src="/images/featured-car.png"
+                      src="/public/featured-car.png"
                       alt=""
                       className="w-[87px] h-[87px] rounded-xl"
                     />
@@ -265,7 +265,7 @@ function Featured() {
 
                   <div className="flex items-center gap-[10px] cursor-pointer hover:shadow-sm">
                     <img
-                      src="/images/frog.png"
+                      src="/public/frog.png"
                       alt=""
                       className="w-[87px] h-[87px] rounded-xl"
                     />
@@ -284,7 +284,7 @@ function Featured() {
 
                   <div className="flex items-center gap-[10px] cursor-pointer hover:shadow-sm">
                     <img
-                      src="/images/featured-dance.png"
+                      src="/public/featured-dance.png"
                       alt=""
                       className="w-[87px] h-[87px] rounded-xl"
                     />
@@ -303,7 +303,7 @@ function Featured() {
 
                   <div className="flex items-center gap-[10px] cursor-pointer hover:shadow-sm">
                     <img
-                      src="/images/featured-food.png"
+                      src="/public/featured-food.png"
                       alt=""
                       className="w-[87px] h-[87px] rounded-xl"
                     />
@@ -322,7 +322,7 @@ function Featured() {
 
                   <div className="flex items-center gap-[10px] cursor-pointer hover:shadow-sm">
                     <img
-                      src="/images/featured-sport.png"
+                      src="/public/featured-sport.png"
                       alt=""
                       className="w-[87px] h-[87px] rounded-xl"
                     />
@@ -339,10 +339,10 @@ function Featured() {
                 </div>
               </div>
 
-              <div className="images flex lg:flex-col sm:flex-row flex-col gap-5">
+              <div className="public flex lg:flex-col sm:flex-row flex-col gap-5">
                 <div className="img-1 sm:w-[320px] w-full h-[150px] rounded-xl relative cursor-pointer shadow-sm hover:shadow-md">
                   <img
-                    src="/images/advertising.png"
+                    src="/public/advertising.png"
                     alt=""
                     className="sm:w-[320px] w-full h-[150px] object-cover rounded-xl flex items-center justify-center"
                   />
@@ -358,7 +358,7 @@ function Featured() {
 
                 <div className="img-2 sm:w-[320px] w-full h-[150px] rounded-xl relative cursor-pointer shadow-sm hover:shadow-md">
                   <img
-                    src="/images/advertising2.png"
+                    src="/public/advertising2.png"
                     alt=""
                     className="sm:w-[320px] w-full h-[150px] object-cover rounded-xl flex items-center justify-center"
                   />
@@ -384,7 +384,7 @@ function Featured() {
                   <div className="header flex justify-between small:flex-row flex-col small:gap-0 gap-3 p-3">
                     <div className="flex items-center gap-3">
                       <img
-                        src="/images/Jon.png"
+                        src="/public/Jon.png"
                         alt=""
                         className="w-[60px] h-[60px] rounded-xl"
                       />
@@ -426,7 +426,7 @@ function Featured() {
                     <div className="card-1 p-3 overflow-hidden mb-4">
                       <div className="flex items-center gap-3">
                         <img
-                          src="/images/Cassie.png"
+                          src="/public/Cassie.png"
                           alt=""
                           className="w-[60px] h-[60px] rounded-xl"
                         />
@@ -456,7 +456,7 @@ function Featured() {
                     <div className="card-2 p-3 overflow-hidden mb-1">
                       <div className="flex items-center gap-3">
                         <img
-                          src="/images/header-img.png"
+                          src="/public/header-img.png"
                           alt=""
                           className="w-[60px] h-[60px] rounded-xl"
                         />
@@ -490,7 +490,7 @@ function Featured() {
                   <div className="header flex justify-between p-3">
                     <div className="flex items-center gap-3">
                       <img
-                        src="/images/Patricia.png"
+                        src="/public/Patricia.png"
                         alt=""
                         className="w-[60px] h-[60px] rounded-xl"
                       />
@@ -661,7 +661,7 @@ function Featured() {
             <div className="w-[320px] h-[100px] flex justify-between bg-[#F5F5F5] rounded-xl p-2">
               <div className="img flex gap-2">
                 <img
-                  src="/images/Louis.png"
+                  src="/public/Louis.png"
                   alt=""
                   className="w-[80px] h-[80px] rounded-xl"
                 />
@@ -700,7 +700,7 @@ function Featured() {
 
                 <div className="flex items-center gap-[10px] cursor-pointer hover:shadow-sm">
                   <img
-                    src="/images/featured-car.png"
+                    src="/public/featured-car.png"
                     alt=""
                     className="w-[87px] h-[87px] rounded-xl"
                   />
@@ -719,7 +719,7 @@ function Featured() {
 
                 <div className="flex items-center gap-[10px] cursor-pointer hover:shadow-sm">
                   <img
-                    src="/images/frog.png"
+                    src="/public/frog.png"
                     alt=""
                     className="w-[87px] h-[87px] rounded-xl"
                   />
@@ -738,7 +738,7 @@ function Featured() {
 
                 <div className="flex items-center gap-[10px] cursor-pointer hover:shadow-sm">
                   <img
-                    src="/images/featured-dance.png"
+                    src="/public/featured-dance.png"
                     alt=""
                     className="w-[87px] h-[87px] rounded-xl"
                   />
@@ -757,7 +757,7 @@ function Featured() {
 
                 <div className="flex items-center gap-[10px] cursor-pointer hover:shadow-sm">
                   <img
-                    src="/images/featured-food.png"
+                    src="/public/featured-food.png"
                     alt=""
                     className="w-[87px] h-[87px] rounded-xl"
                   />
@@ -776,7 +776,7 @@ function Featured() {
 
                 <div className="flex items-center gap-[10px] cursor-pointer hover:shadow-sm">
                   <img
-                    src="/images/featured-sport.png"
+                    src="/public/featured-sport.png"
                     alt=""
                     className="w-[87px] h-[87px] rounded-xl"
                   />
@@ -793,10 +793,10 @@ function Featured() {
               </div>
             </div>
 
-            <div className="images flex flex-col gap-5">
+            <div className="public flex flex-col gap-5">
               <div className="img-1 w-[320px] h-[150px] rounded-xl relative cursor-pointer shadow-sm hover:shadow-md">
                 <img
-                  src="/images/advertising.png"
+                  src="/public/advertising.png"
                   alt=""
                   className="w-[320px] h-[150px] rounded-xl flex items-center justify-center"
                 />
@@ -812,7 +812,7 @@ function Featured() {
 
               <div className="img-2 w-[320px] h-[150px] rounded-xl relative cursor-pointer shadow-sm hover:shadow-md">
                 <img
-                  src="/images/advertising2.png"
+                  src="/public/advertising2.png"
                   alt=""
                   className="w-[320px] h-[150px] rounded-xl flex items-center justify-center"
                 />

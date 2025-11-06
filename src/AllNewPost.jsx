@@ -31,7 +31,7 @@ function AllNewPost() {
             <div className="card1 flex small:flex-row flex-col items-center midlg:w-[580px] 2midlg:w-[500px] 2sm:w-[600px]  rounded-xl small:gap-[10px] gap-[6px] shadow-md hover:shadow-lg p-3">
               <div className="sm:w-[340px] small:w-[300px] 2small:w-[270px] small:h-[160px] ">
                 <img
-                  src="/images/tech-post.png"
+                  src="/public/tech-post.png"
                   alt=""
                   className="rounded-xl sm:w-[340px] small:w-[300px] 2small:w-[270px]  small:h-[160px] "
                 />
@@ -48,7 +48,7 @@ function AllNewPost() {
                   <div className="sm:w-[310px] small:w-[270px] 2small:w-[270px] h-[72px] rounded-xl bg-[#F5F5F5] flex justify-between items-center px-4">
                     <div className="flex items-center gap-[10px]">
                       <img
-                        src="/images/Jon.png"
+                        src="/public/Jon.png"
                         alt=""
                         className="small:w-[44px] small:h-[44px] 2small:w-[40px] 2small:h-[40px] rounded-xl"
                       />
@@ -76,7 +76,7 @@ function AllNewPost() {
             <div className="card2 flex small:flex-row flex-col items-center midlg:w-[580px] 2midlg:w-[500px] 2sm:w-[600px]  rounded-xl small:gap-[10px] gap-[6px] shadow-md hover:shadow-lg p-3">
               <div className="sm:w-[340px] small:w-[300px] 2small:w-[270px] small:h-[160px] ">
                 <img
-                  src="/images/boats.png"
+                  src="/public/boats.png"
                   alt=""
                   className="rounded-xl sm:w-[340px] small:w-[300px] 2small:w-[270px]  small:h-[160px] "
                 />
@@ -93,7 +93,7 @@ function AllNewPost() {
                   <div className="sm:w-[310px] small:w-[270px] 2small:w-[270px] h-[72px] rounded-xl bg-[#F5F5F5] flex justify-between items-center px-4">
                     <div className="flex items-center gap-[10px]">
                       <img
-                        src="/images/Louis.png"
+                        src="/public/Louis.png"
                         alt=""
                         className="small:w-[44px] small:h-[44px] 2small:w-[40px] 2small:h-[40px] rounded-xl"
                       />
@@ -121,7 +121,7 @@ function AllNewPost() {
             <div className="card3 flex small:flex-row flex-col items-center midlg:w-[580px] 2midlg:w-[500px] 2sm:w-[600px]  rounded-xl small:gap-[10px] gap-[6px] shadow-md hover:shadow-lg p-3">
               <div className="sm:w-[340px] small:w-[300px] 2small:w-[270px] small:h-[160px] ">
                 <img
-                  src="/images/squirrel.png"
+                  src="/public/squirrel.png"
                   alt=""
                   className="rounded-xl sm:w-[340px] small:w-[300px] 2small:w-[270px]  small:h-[160px] "
                 />
@@ -138,7 +138,7 @@ function AllNewPost() {
                   <div className="sm:w-[310px] small:w-[270px] 2small:w-[270px] h-[72px] rounded-xl bg-[#F5F5F5] flex justify-between items-center px-4">
                     <div className="flex items-center gap-[10px]">
                       <img
-                        src="/images/James.png"
+                        src="/public/James.png"
                         alt=""
                         className="small:w-[44px] small:h-[44px] 2small:w-[40px] 2small:h-[40px] rounded-xl"
                       />
@@ -166,7 +166,7 @@ function AllNewPost() {
             <div className="car4 flex small:flex-row flex-col items-center midlg:w-[580px] 2midlg:w-[500px] 2sm:w-[600px]  rounded-xl small:gap-[10px] gap-[6px] shadow-md hover:shadow-lg p-3">
               <div className="sm:w-[340px] small:w-[300px] 2small:w-[270px] small:h-[160px] ">
                 <img
-                  src="/images/car-post.png"
+                  src="/public/car-post.png"
                   alt=""
                   className="rounded-xl sm:w-[340px] small:w-[300px] 2small:w-[270px]  small:h-[160px] "
                 />
@@ -183,7 +183,7 @@ function AllNewPost() {
                   <div className="sm:w-[310px] small:w-[270px] 2small:w-[270px] h-[72px] rounded-xl bg-[#F5F5F5] flex justify-between items-center px-4">
                     <div className="flex items-center gap-[10px]">
                       <img
-                        src="/images/Cassie.png"
+                        src="/public/Cassie.png"
                         alt=""
                         className="small:w-[44px] small:h-[44px] 2small:w-[40px] 2small:h-[40px] rounded-xl"
                       />
@@ -211,7 +211,7 @@ function AllNewPost() {
             <div className="car5 flex small:flex-row flex-col items-center midlg:w-[580px] 2midlg:w-[500px] 2sm:w-[600px]  rounded-xl small:gap-[10px] gap-[6px] shadow-md hover:shadow-lg p-3">
               <div className="sm:w-[340px] small:w-[300px] 2small:w-[270px] small:h-[160px] ">
                 <img
-                  src="/images/designer.png"
+                  src="/public/designer.png"
                   alt=""
                   className="rounded-xl sm:w-[340px] small:w-[300px] 2small:w-[270px]  small:h-[160px] "
                 />
@@ -228,7 +228,7 @@ function AllNewPost() {
                   <div className="sm:w-[310px] small:w-[270px] 2small:w-[270px] h-[72px] rounded-xl bg-[#F5F5F5] flex justify-between items-center px-4">
                     <div className="flex items-center gap-[10px]">
                       <img
-                        src="/images/Linda.png"
+                        src="/public/Linda.png"
                         alt=""
                         className="small:w-[44px] small:h-[44px] 2small:w-[40px] 2small:h-[40px] rounded-xl"
                       />
@@ -256,7 +256,7 @@ function AllNewPost() {
             <div className="car6 flex small:flex-row flex-col items-center midlg:w-[580px] 2midlg:w-[500px] 2sm:w-[600px]  rounded-xl small:gap-[10px] gap-[6px] shadow-md hover:shadow-lg p-3">
               <div className="sm:w-[340px] small:w-[300px] 2small:w-[270px] small:h-[160px] ">
                 <img
-                  src="/images/music.png"
+                  src="/public/music.png"
                   alt=""
                   className="rounded-xl sm:w-[340px] small:w-[300px] 2small:w-[270px]  small:h-[160px] "
                 />
@@ -273,7 +273,7 @@ function AllNewPost() {
                   <div className="sm:w-[310px] small:w-[270px] 2small:w-[270px] h-[72px] rounded-xl bg-[#F5F5F5] flex justify-between items-center px-4">
                     <div className="flex items-center gap-[10px]">
                       <img
-                        src="/images/Patricia.png"
+                        src="/public/Patricia.png"
                         alt=""
                         className="small:w-[44px] small:h-[44px] 2small:w-[40px] 2small:h-[40px] rounded-xl"
                       />

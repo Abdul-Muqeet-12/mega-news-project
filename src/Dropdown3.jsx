@@ -33,7 +33,7 @@ function Dropdown3() {
           className="flex items-center justify-center lg:gap-2 gap-1"
         >
           <img
-            src="/images/header-img.png"
+            src="/public/header-img.png"
             alt=""
             className="lg:w-[48px] lg:h-[48px] md:w-[42px] md:h-[42px] w-[40px] h-[40px] rounded-2xl"
           />

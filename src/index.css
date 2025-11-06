@@ -10,46 +10,44 @@
 }
 
 .food {
-  background-image: url(/images/food.jpg);
+  background-image: url(/public/food.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .animal {
-  background-image: url(/images/animal.jpg);
+  background-image: url(/public/animal.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .car {
-  background-image: url(/images/car.jpg);
+  background-image: url(/public/car.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .sport {
-  background-image: url(/images/sport.jpg);
+  background-image: url(/public/sport.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .music {
-  background-image: url(/images/music.jpg);
+  background-image: url(/public/music.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .technology {
-  background-image: url(/images/technology.jpg);
+  background-image: url(/public/technology.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .abstract {
-  background-image: url(/images/abstract.jpg);
+  background-image: url(/public/abstract.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
-
-
