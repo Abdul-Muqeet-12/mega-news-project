@@ -5,7 +5,7 @@ import AllNewPost from "./AllNewPost";
 import ContactUs from "./ContactUs";
 import Featured from "./Featured";
 import Category from "./Category";
-import Category2 from "./category2";
+import Category2 from "./Category2";
 import Category3 from "./Category3";
 import Writer from "./Writer";
 import ProfileMarked from "./ProfileMarked";
