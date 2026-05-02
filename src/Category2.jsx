@@ -9,110 +9,110 @@ export default function Category2() {
   const posts = [
     {
       id: 1,
-      img: "/public/food.png",
+      img: "/food.png",
       title: "How to Persuade Your Parents to Buy...",
       desc: "Parents often don't want to buy fast food. They may be worried that it's too expensive...",
-      authorImg: "/public/Jon.png",
+      authorImg: "/Jon.png",
       author: "Jon Kantner",
       date: "September 5 , 2025",
     },
     {
       id: 2,
-      img: "/public/trendy-car.png",
+      img: "/trendy-car.png",
       title: "How to build a self-driving car in month",
       desc: "Can I learn the necessary computer science to build the software part of a self-driving...",
-      authorImg: "/public/Mary.png",
+      authorImg: "/Mary.png",
       author: "Mary",
       date: "September 5 , 2025",
     },
     {
       id: 3,
-      img: "/public/trendy-sport.png",
+      img: "/trendy-sport.png",
       title: "Self-Improvement Has Become An Extr...",
       desc: "What we're told we must do each day to develop and be successful has gone out...",
-      authorImg: "/public/James.png",
+      authorImg: "/James.png",
       author: "James",
       date: "September 5 , 2025",
     },
     {
       id: 4,
-      img: "/public/top-car.png",
+      img: "/top-car.png",
       title: "Why Buying a New Car Makes More...",
       desc: "Many experts will tell you buying cars used is best for your long-term financial health.",
-      authorImg: "/public/Mary.png",
+      authorImg: "/Mary.png",
       author: "Mary",
       date: "September 5 , 2025",
     },
     {
       id: 5,
-      img: "/public/water-boat.png",
+      img: "/water-boat.png",
       title: "Opening Day of Boating Season, Seattle",
       desc: "Of course the Puget Sound is very watery, and where there is water, there are boats.",
-      authorImg: "/public/James.png",
+      authorImg: "/James.png",
       author: "James",
       date: "September 5 , 2025",
     },
     {
       id: 6,
-      img: "/public/laptop.png",
+      img: "/laptop.png",
       title: "How to choose the right laptop for idea",
       desc: "Choosing the right laptop for programming can be a tough process. It's easy to get...",
-      authorImg: "/public/Louis.png",
+      authorImg: "/Louis.png",
       author: "Louis Hoebregts",
       date: "September 5 , 2025",
     },
     {
       id: 7,
-      img: "/public/car.png",
+      img: "/car.png",
       title: "How we built the first real self-driving car",
       desc: "Electric self-driving cars will save millions of lives and significantly accelerate the world's",
-      authorImg: "/public/Mary.png",
+      authorImg: "/Mary.png",
       author: "Mary",
       date: "September 5 , 2025",
     },
     {
       id: 8,
-      img: "/public/technology.jpg",
+      img: "/technology.jpg",
       title: "How to choose the right laptop for idea",
       desc: "Choosing the right laptop for programming can be a tough process. It's easy to get...",
-      authorImg: "/public/Louis.png",
+      authorImg: "/Louis.png",
       author: "Robort",
       date: "September 5 , 2025",
     },
 
     {
       id: 9,
-      img: "/public/trendy-food.png",
+      img: "/trendy-food.png",
       title: "10 Cooking Lessons to Use in Everyday Life",
       desc: "I recently stumbled upon this quote by Paul Theroux: “Cooking requires confident... ",
-      authorImg: "/public/Jon.png",
+      authorImg: "/Jon.png",
       author: "Jon Kantner",
       date: "September 5 , 2025",
     },
     {
       id: 10,
-      img: "/public/trendy-tech.png",
+      img: "/trendy-tech.png",
       title: "Typography can make or break design...",
       desc: "One of the most important skills you can learn as a designer is how to choose type...",
-      authorImg: "/public/Louis.png",
+      authorImg: "/Louis.png",
       author: "Robert",
       date: "September 5 , 2025",
     },
     {
       id: 11,
-      img: "/public/boats.png",
+      img: "/boats.png",
       title: "House boating on Lake Shasta",
       desc: "The best way to spend a long 4th of July weekend. Wake boarding, swimming...",
-      authorImg: "/public/James.png",
+      authorImg: "/James.png",
       author: "James",
       date: "September 5 , 2025",
     },
     {
       id: 12,
-      img: "/public/top-food.png",
+      img: "/top-food.png",
       title: "Lasagna is but a Pasta Cake",
       desc: "Re-envision the description of a common food from a different perspective — it is … pasta... ",
-      authorImg: "/public/Jon.png",
+      authorImg: "/Jon.png",
       author: "Jon Kantner",
       date: "September 5 , 2025",
     },
@@ -128,7 +128,7 @@ export default function Category2() {
         </div>
         <div>
           <img
-            src="/public/icon.png"
+            src="/icon.png"
             alt=""
             className="md:w-[8px] md:h-[12px] small:w-[7px] small:h-[10px] 2small:w-[7px] 2small:h-[8px]"
           />
@@ -283,7 +283,7 @@ export default function Category2() {
           <div className="w-[94px] h-[40px] rounded-xl flex items-center justify-center gap-[8px] text-[#3E3232BF] text-sm font-medium bg-[#F5F5F5]">
             Next{" "}
             <img
-              src="/public/icon.png"
+              src="/icon.png"
               alt=""
               className="md:w-[8px] md:h-[12px] small:w-[7px] small:h-[10px] 2small:w-[7px] 2small:h-[8px]"
             />

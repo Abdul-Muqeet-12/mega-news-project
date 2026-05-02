@@ -148,7 +148,7 @@ function Footer() {
               <div className="img-1 lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl">
                 <Link to={"/featured"}>
                   <img
-                    src="/public/car.png"
+                    src="/car.png"
                     alt=""
                     className="lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl object-cover"
                   />
@@ -158,7 +158,7 @@ function Footer() {
               <div className="img-2 lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl">
                 <Link to={"/featured"}>
                   <img
-                    src="/public/animal.jpg"
+                    src="/animal.jpg"
                     alt=""
                     className="lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl object-cover"
                   />
@@ -168,7 +168,7 @@ function Footer() {
               <div className="img-3 lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl">
                 <Link to={"/featured"}>
                   <img
-                    src="/public/footer-tech.png"
+                    src="/footer-tech.png"
                     alt=""
                     className="lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl object-cover"
                   />
@@ -178,7 +178,7 @@ function Footer() {
               <div className="img-4 lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl">
                 <Link to={"/featured"}>
                   <img
-                    src="/public/food.png"
+                    src="/food.png"
                     alt=""
                     className="lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl object-cover"
                   />
@@ -188,7 +188,7 @@ function Footer() {
               <div className="img-5 lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl">
                 <Link to={"/featured"}>
                   <img
-                    src="/public/footer-music.png"
+                    src="/footer-music.png"
                     alt=""
                     className="lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl object-cover"
                   />
@@ -198,7 +198,7 @@ function Footer() {
               <div className="img-6 lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl">
                 <Link to={"/featured"}>
                   <img
-                    src="/public/footer-dance.png"
+                    src="/footer-dance.png"
                     alt=""
                     className="lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl object-cover"
                   />
@@ -208,7 +208,7 @@ function Footer() {
               <div className="img-7 lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl">
                 <Link to={"/featured"}>
                   <img
-                    src="/public/footer-animal.png"
+                    src="/footer-animal.png"
                     alt=""
                     className="lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl object-cover"
                   />
@@ -218,7 +218,7 @@ function Footer() {
               <div className="img-8 lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl">
                 <Link to={"/featured"}>
                   <img
-                    src="/public/footer-club.png"
+                    src="/footer-club.png"
                     alt=""
                     className="lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl object-cover"
                   />
@@ -228,7 +228,7 @@ function Footer() {
               <div className="img-9 lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl small:inline-block 2small:hidden">
                 <Link to={"/featured"}>
                   <img
-                    src="/public/latest-sport.png"
+                    src="/latest-sport.png"
                     alt=""
                     className="lg:w-[80px] lg:h-[80px] md:w-[60px] md:h-[60px] w-[70px] h-[70px] rounded-xl object-cover"
                   />

@@ -22,33 +22,33 @@ export default function ProfilePosts() {
   const posts = [
     {
       id: 1,
-      img: "/public/trendy-sport.png",
+      img: "/trendy-sport.png",
       title: "Opening Day of Boating Season, Seattle WA",
-      authorImg: "/public/James.png",
+      authorImg: "/James.png",
       author: "James",
       date: "September 5 , 2025",
     },
     {
       id: 2,
-      img: "/public/technology.jpg",
+      img: "/technology.jpg",
       title: "How to choose the right laptop for idea",
-      authorImg: "/public/Louis.png",
+      authorImg: "/Louis.png",
       author: "Robort",
       date: "September 5 , 2025",
     },
     {
       id: 3,
-      img: "/public/car.png",
+      img: "/car.png",
       title: "How we built the first real self-driving car",
-      authorImg: "/public/Mary.png",
+      authorImg: "/Mary.png",
       author: "Mary",
       date: "September 5 , 2025",
     },
     {
       id: 4,
-      img: "/public/food.png",
+      img: "/food.png",
       title: "How to Persuade Your Parents to Buy...",
-      authorImg: "/public/Jon.png",
+      authorImg: "/Jon.png",
       author: "Jon Kantner",
       date: "September 5 , 2025",
     },
@@ -64,7 +64,7 @@ export default function ProfilePosts() {
         </div>
         <div>
           <img
-            src="/public/icon.png"
+            src="/icon.png"
             alt=""
             className="md:w-[8px] md:h-[12px] small:w-[7px] small:h-[10px] 2small:w-[7px] 2small:h-[8px]"
           />
@@ -77,7 +77,7 @@ export default function ProfilePosts() {
       <div className="bar h-[260px] bg-[#F5F5F5] rounded-xl lg:mx-8 sm:mx-6 small:mx-6 mx-6 mt-10 p-3">
         <div>
           <img
-            src="/public/slider-img2.jpg"
+            src="/slider-img2.jpg"
             alt=""
             className="h-[150px] w-full object-cover rounded-xl"
           />
@@ -86,7 +86,7 @@ export default function ProfilePosts() {
         <div className="flex items-center justify-between mt-3">
           <div className="flex items-center gap-[8px]">
             <img
-              src="/public/Louis.png"
+              src="/Louis.png"
               alt=""
               className="w-[75px] h-[75px] rounded-xl"
             />
@@ -346,18 +346,10 @@ export default function ProfilePosts() {
                       </div>
                       <div className="flex items-center gap-[20px]">
                         <div>
-                          <img
-                            src="/public/edit.png"
-                            alt=""
-                            className="w-[20px]"
-                          />
+                          <img src="/edit.png" alt="" className="w-[20px]" />
                         </div>
                         <div>
-                          <img
-                            src="/public/del.png"
-                            alt=""
-                            className="w-[20px]"
-                          />
+                          <img src="/del.png" alt="" className="w-[20px]" />
                         </div>
                       </div>
                     </div>

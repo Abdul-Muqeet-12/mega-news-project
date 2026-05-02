@@ -37,7 +37,7 @@ export default function ProfileSend() {
         </div>
         <div>
           <img
-            src="/public/icon.png"
+            src="/icon.png"
             alt=""
             className="md:w-[8px] md:h-[12px] small:w-[7px] small:h-[10px] 2small:w-[7px] 2small:h-[8px]"
           />
@@ -50,7 +50,7 @@ export default function ProfileSend() {
       <div className="bar h-[260px] bg-[#F5F5F5] rounded-xl lg:mx-8 sm:mx-6 small:mx-6 mx-6 mt-10 p-3">
         <div>
           <img
-            src="/public/slider-img2.jpg"
+            src="/slider-img2.jpg"
             alt=""
             className="h-[150px] w-full object-cover rounded-xl"
           />
@@ -59,7 +59,7 @@ export default function ProfileSend() {
         <div className="flex items-center justify-between mt-3">
           <div className="flex items-center gap-[8px]">
             <img
-              src="/public/Louis.png"
+              src="/Louis.png"
               alt=""
               className="w-[75px] h-[75px] rounded-xl"
             />

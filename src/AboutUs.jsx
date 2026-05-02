@@ -16,7 +16,7 @@ export default function AboutUs() {
         </div>
         <div>
           <img
-            src="/public/icon.png"
+            src="/icon.png"
             alt=""
             className="md:w-[8px] md:h-[12px] small:w-[7px] small:h-[10px] 2small:w-[7px] 2small:h-[8px]"
           />
@@ -53,7 +53,7 @@ export default function AboutUs() {
               <div className="relative lg:w-[480px] lg:h-[300px]">
                 <Link to={"/featured"}>
                   <video
-                    src="/public/nature-video.mp4"
+                    src="/nature-video.mp4"
                     autoPlay
                     loop
                     muted
@@ -63,7 +63,7 @@ export default function AboutUs() {
                 </Link>
                 <div className="sm:w-[90px] sm:h-[90px] small:w-[70px] small:h-[70px] 2small:w-[50px] 2small:h-[50px] rounded-full absolute small:top-1/2 small:left-1/2 2small:top-20 2small:right-25 -translate-x-1/2 -translate-y-1/2 cursor-pointer bg-[#FFFFFFBF] flex justify-center items-center">
                   <img
-                    src="/public/play.png"
+                    src="/play.png"
                     alt=""
                     className="w-[30px] h-[30px] sm:w-[35px] sm:h-[35px] small:w-[30px] small:h-[30px] 2small:w-[25px] 2small:h-[25px]"
                   />

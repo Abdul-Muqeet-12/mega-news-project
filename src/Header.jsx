@@ -3,7 +3,6 @@ import { BsThreeDotsVertical } from "react-icons/bs";
 import { MdOutlineBookmarkBorder } from "react-icons/md";
 import { FaSearch } from "react-icons/fa";
 import { useState } from "react";
-
 import Dropdown3 from "./Dropdown3";
 
 function Header() {
@@ -39,12 +38,18 @@ function Header() {
             <nav>
               <ul className="md:flex md:items-center lg:gap-5 gap-3">
                 <li>
-                  <Link to={"/category"} className="lg:text-[16px] md:text-[12px] 2small:text-[12px] text-[#3E3232] font-medium">
+                  <Link
+                    to={"/category"}
+                    className="lg:text-[16px] md:text-[12px] 2small:text-[12px] text-[#3E3232] font-medium"
+                  >
                     Categories
                   </Link>
                 </li>
                 <li>
-                  <Link to={"/profile-marked"} className="lg:text-[16px] md:text-[12px] 2small:text-[12px] text-[#3E3232] font-medium">
+                  <Link
+                    to={"/profile-marked"}
+                    className="lg:text-[16px] md:text-[12px] 2small:text-[12px] text-[#3E3232] font-medium"
+                  >
                     Pages
                   </Link>
                 </li>
@@ -57,7 +62,10 @@ function Header() {
                   </Link>
                 </li>
                 <li>
-                  <Link to={"/aboutUs"} className="lg:text-[16px] md:text-[12px] 2small:text-[12px] text-[#3E3232] font-medium">
+                  <Link
+                    to={"/aboutUs"}
+                    className="lg:text-[16px] md:text-[12px] 2small:text-[12px] text-[#3E3232] font-medium"
+                  >
                     About Us
                   </Link>
                 </li>

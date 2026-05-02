@@ -17,19 +17,19 @@ function Home() {
   const sliderData = [
     {
       id: 1,
-      img: "/public/slider-img1.jpg",
+      img: "/slider-img1.jpg",
       title: "Why I Stopped Using Multiple Monitor",
       desc: "A Single Monitor Manifesto — Many developers believe multiple monitors improve productivity. Studies have proven it, right? Well, keep in mind...",
     },
     {
       id: 2,
-      img: "/public/slider-img2.jpg",
+      img: "/slider-img2.jpg",
       title: "Why I Stopped Using Multiple Monitor",
       desc: "A Single Monitor Manifesto — Many developers believe multiple monitors improve productivity. Studies have proven it, right? Well, keep in mind...",
     },
     {
       id: 3,
-      img: "/public/slider-img3.jpg",
+      img: "/slider-img3.jpg",
       title: "Why I Stopped Using Multiple Monitor",
       desc: "A Single Monitor Manifesto — Many developers believe multiple monitors improve productivity. Studies have proven it, right? Well, keep in mind...",
     },
@@ -136,7 +136,7 @@ function Home() {
               <div className="w-full">
                 <Link to={"/featured"}>
                   <img
-                    src="/public/car-img.jpg"
+                    src="/car-img.jpg"
                     alt=""
                     className="rounded-xl w-full object-cover md:h-[380px] sm:h-[320px] h-[300px]"
                   />
@@ -159,7 +159,7 @@ function Home() {
               <div className="w-full">
                 <Link to={"/featured"}>
                   <img
-                    src="/public/women-img.jpg"
+                    src="/women-img.jpg"
                     alt=""
                     className="rounded-xl w-full object-cover md:h-[380px] sm:h-[320px] h-[300px]"
                   />
@@ -235,7 +235,7 @@ function Home() {
               <div className="sm:w-[340px] small:w-[300px] 2small:w-[270px] small:h-[160px] ">
                 <Link to={"/featured"}>
                   <img
-                    src="/public/tech-post.png"
+                    src="/tech-post.png"
                     alt=""
                     className="rounded-xl sm:w-[340px] small:w-[300px] 2small:w-[270px]  small:h-[160px] "
                   />
@@ -254,7 +254,7 @@ function Home() {
                     <div className="flex items-center gap-[10px]">
                       <Link to={"/featured"}>
                         <img
-                          src="/public/Jon.png"
+                          src="/Jon.png"
                           alt=""
                           className="small:w-[44px] small:h-[44px] 2small:w-[40px] 2small:h-[40px] rounded-xl"
                         />
@@ -284,7 +284,7 @@ function Home() {
               <div className="sm:w-[340px] small:w-[300px] 2small:w-[270px] small:h-[160px] ">
                 <Link to={"/featured"}>
                   <img
-                    src="/public/boats.png"
+                    src="/boats.png"
                     alt=""
                     className="rounded-xl sm:w-[340px] small:w-[300px] 2small:w-[270px]  small:h-[160px] "
                   />
@@ -303,7 +303,7 @@ function Home() {
                     <div className="flex items-center gap-[10px]">
                       <Link to={"/featured"}>
                         <img
-                          src="/public/Louis.png"
+                          src="/Louis.png"
                           alt=""
                           className="small:w-[44px] small:h-[44px] 2small:w-[40px] 2small:h-[40px] rounded-xl"
                         />
@@ -333,7 +333,7 @@ function Home() {
               <div className="sm:w-[340px] small:w-[300px] 2small:w-[270px] small:h-[160px] ">
                 <Link to={"/featured"}>
                   <img
-                    src="/public/squirrel.png"
+                    src="/squirrel.png"
                     alt=""
                     className="rounded-xl sm:w-[340px] small:w-[300px] 2small:w-[270px]  small:h-[160px] "
                   />
@@ -352,7 +352,7 @@ function Home() {
                     <div className="flex items-center gap-[10px]">
                       <Link to={"/featured"}>
                         <img
-                          src="/public/James.png"
+                          src="/James.png"
                           alt=""
                           className="small:w-[44px] small:h-[44px] 2small:w-[40px] 2small:h-[40px] rounded-xl"
                         />
@@ -382,7 +382,7 @@ function Home() {
               <div className="sm:w-[340px] small:w-[300px] 2small:w-[270px] small:h-[160px] ">
                 <Link to={"/featured"}>
                   <img
-                    src="/public/car-post.png"
+                    src="/car-post.png"
                     alt=""
                     className="rounded-xl sm:w-[340px] small:w-[300px] 2small:w-[270px]  small:h-[160px] "
                   />
@@ -401,7 +401,7 @@ function Home() {
                     <div className="flex items-center gap-[10px]">
                       <Link to={"/featured"}>
                         <img
-                          src="/public/Cassie.png"
+                          src="/Cassie.png"
                           alt=""
                           className="small:w-[44px] small:h-[44px] 2small:w-[40px] 2small:h-[40px] rounded-xl"
                         />
@@ -431,7 +431,7 @@ function Home() {
               <div className="sm:w-[340px] small:w-[300px] 2small:w-[270px] small:h-[160px] ">
                 <Link to={"/featured"}>
                   <img
-                    src="/public/designer.png"
+                    src="/designer.png"
                     alt=""
                     className="rounded-xl sm:w-[340px] small:w-[300px] 2small:w-[270px]  small:h-[160px] "
                   />
@@ -450,7 +450,7 @@ function Home() {
                     <div className="flex items-center gap-[10px]">
                       <Link to={"/featured"}>
                         <img
-                          src="/public/Linda.png"
+                          src="/Linda.png"
                           alt=""
                           className="small:w-[44px] small:h-[44px] 2small:w-[40px] 2small:h-[40px] rounded-xl"
                         />
@@ -480,7 +480,7 @@ function Home() {
               <div className="sm:w-[340px] small:w-[300px] 2small:w-[270px] small:h-[160px] ">
                 <Link to={"/featured"}>
                   <img
-                    src="/public/music.png"
+                    src="/music.png"
                     alt=""
                     className="rounded-xl sm:w-[340px] small:w-[300px] 2small:w-[270px]  small:h-[160px] "
                   />
@@ -499,7 +499,7 @@ function Home() {
                     <div className="flex items-center gap-[10px]">
                       <Link to={"/featured"}>
                         <img
-                          src="/public/Patricia.png"
+                          src="/Patricia.png"
                           alt=""
                           className="small:w-[44px] small:h-[44px] 2small:w-[40px] 2small:h-[40px] rounded-xl"
                         />
